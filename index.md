@@ -6,7 +6,7 @@ layout: default
 # #WhoAmI 
 
 _Donut_ is as a:
-DevNet Engineer, Network Engineer and an Offensive Security Engineer based in the Philippines 🇵🇭. 
+Offensive Security Engineer (Pentester) & a DevNet Engineer (Network & Automation Engineer) based in the Philippines 🇵🇭. 
 
 > What I do for a living: **Offensive Security, Ethical Hacking, Network Engineering, Automation, E-commerce**
 
@@ -16,15 +16,17 @@ DevNet Engineer, Network Engineer and an Offensive Security Engineer based in th
 
 ## Certifications
 
-> **CCNA**: Cisco Certified Networking Associate
+> **CCNA**: Cisco Certified Networking Associate (Obtained)
 
-> **CCNP Enetrprise**: Cisco Certified Network Professional Enterprise
+> **CCNP Enetrprise**: Cisco Certified Network Professional Enterprise (Obtained)
 
-> Cisco Certified Specialist - Enterprise Wireless Implementation
+> Cisco Certified Specialist - Enterprise Wireless Implementation (Obtained)
 
-> Cisco Certified Specialist - Enterprise Core
+> Cisco Certified Specialist - Enterprise Core (Obtained)
 
-> ~~**OSCP** Offensive Security Certified Professional(In Progress 50%)~~
+> **OSCP** Offensive Security Certified Professional (In Progress 50%)
+
+> **CPTS** Certified Penetration Testing Specialist (In Progress 40%)
 
 ## Projects
 
@@ -43,3 +45,4 @@ _donut@donutskip.com_
 [Youtube](https://www.youtube.com/@donutskip)
 [Facebook](https://www.facebook.com/profile.php?id=61566369599188)
 [GitHub](https://github.com/donutskip)
+
