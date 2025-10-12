@@ -5,14 +5,12 @@ layout: default
 ![Donut](assets/images/me3.png){:class="resized-image"}
 # #WhoAmI 
 
-_Donut_ is as a:
-Offensive Security Engineer (Pentester) & a DevNet Engineer (Network & Automation Engineer) based in the Philippines 🇵🇭. 
+_Donut_ is as an:
+Offensive Security Engineer (Pentester) & DevNet Engineer (Network & Automation Engineer) based in the Philippines 🇵🇭. 
 
 > What I do for a living: **Offensive Security, Ethical Hacking, Network Engineering, Automation, E-commerce**
 
-> Outside of work: Your go-to meme guy! Holler if you see me around — I train 🏊🏽‍♂️🚴🏽🏃🏽🥊.
-
-> ✝️ Isaiah 42:16
+> Outside of work, I train 🏊🏽‍♂️🚴🏽🏃🏽🥊.
 
 ## Certifications
 
@@ -45,4 +43,5 @@ _donut@donutskip.com_
 [Youtube](https://www.youtube.com/@donutskip)
 [Facebook](https://www.facebook.com/profile.php?id=61566369599188)
 [GitHub](https://github.com/donutskip)
+
 
